@@ -1,0 +1,59 @@
+body {
+    background-color: #D55252;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#logo {
+    height: 250px;
+    width: auto;
+    margin: 0px 0px 0px 320px;
+}
+
+#title {
+    font-family: 'Domine', serif;
+    color: white;
+    font-size: 110px;
+    text-shadow: 3px 3px 3px #720000;
+    margin-top: -75px;
+}
+
+#username,
+#password {
+    border: 1px solid #720000;
+    height: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    width: 35%;
+    border-radius: 10px;
+}
+
+#login {
+    background-color: #910202;
+    border: 1.3px solid #430000;
+    width: 20%;
+    font-family: 'Domine', serif;
+    font-size: 20px;
+    color: white;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#login2 {
+    font-family: 'Domine', serif;
+    font-size: 20px;
+    color: white;
+    height: 50px;
+}
+
+#signUpHere {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    color: white;
+    width: 35%;
+}
